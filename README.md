@@ -40,6 +40,7 @@ The TransactionDT feature is a timedelta from a given reference datetime.
 
 **test_{transaction, identity}.csv** - the test set (you must predict the isFraud value for these observations)
 
+**sample_submission.csv** - a sample submission file in the correct format
+
 ## Classification Results
 
-**sample_submission.csv** - a sample submission file in the correct format
