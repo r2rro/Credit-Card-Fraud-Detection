@@ -42,7 +42,7 @@ The TransactionDT feature is a timedelta from a given reference datetime.
 
 **sample_submission.csv** - a sample submission file in the correct format
 
-## Classification Results
+## Classification Results Summary
 
 | Model         |   TP  | FP | FN | TN | Precision | Recall | F1-Score | Accuracy | ROC AUC |
 | ------------- |:-----:| -----:|:--:|:--:|:--:|:---------:|:------:|:--------:|:-------:|
