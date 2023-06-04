@@ -46,7 +46,7 @@ The TransactionDT feature is a timedelta from a given reference datetime.
 
 | Model         |   TP  | FP | FN | TN | Precision | Recall | F1-Score | Accuracy | ROC AUC |
 | ------------- |:-----:| -----:|:--:|:--:|:--:|:---------:|:------:|:--------:|:-------:|
-| XGBoost    | 31594   | 190    | 871  | 1823  | 0.906 | 0.677  | 0.775  | 0.969  | 0.835  |
+| XGBoost    | 1823   | 190    | 871  | 31594  | 0.906 | 0.677  | 0.775  | 0.969  | 0.835  |
 | SVC    | in progress   | ... | ... |... | ... | ... | ... | ... | ...    |
 | MLP    | in progress   | ... | ... |... | ... | ... | ... | ... | ...    |
 
