@@ -36,12 +36,6 @@ They're collected by Vesta’s fraud protection system and digital security part
 
 The TransactionDT feature is a timedelta from a given reference datetime.
 
-**train_{transaction, identity}.csv** - the training set
-
-**test_{transaction, identity}.csv** - the test set (you must predict the isFraud value for these observations)
-
-**sample_submission.csv** - a sample submission file in the correct format
-
 ## Classification Results Summary
 
 | Model         |   TP  | FP | FN | TN | Precision | Recall | F1-Score | Accuracy | ROC AUC |
